@@ -4,6 +4,14 @@ Soy estudiante de Matemáticas Aplicadas, y he encontrado mi camino y mi voz en 
 Aquí presento algunos proyectos y materiales visuales en los que he trabajado a lo largo de la carrera; deseo que los disfruten tanto como yo disfruté aprender a través de ellos.
 
 ## Proyectos destacados
+
+![NetLogo](https://img.shields.io/badge/-NetLogo-9fc5e8?style=flat-square&logo=data:image/svg+xml;base64,PHN2Zy8+&labelColor=4c6e91)
+![Python](https://img.shields.io/badge/-Python-ffe599?style=flat-square&logo=python&logoColor=3776AB)
+![CWOA](https://img.shields.io/badge/-Clustering%20con%20WOA-f4cccc?style=flat-square)
+![Divulgación científica](https://img.shields.io/badge/-Divulgación%20científica-d9ead3?style=flat-square)
+![Modelos Basados en Agentes](https://img.shields.io/badge/-Modelos%20Basados%20en%20Agentes-b6d7a8?style=flat-square)
+![Colores y cuidado](https://img.shields.io/badge/-Colores%20y%20cuidado-f9cb9c?style=flat-square)
+
 ---
 ### 🏙️ [Simulaciones en NetLogo — Proyecto I](https://github.com/FridaVargas/proyecto_1/tree/main)
 
