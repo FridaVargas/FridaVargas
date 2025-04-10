@@ -1,7 +1,8 @@
 # Hola, soy Frida
 ---
-Soy estudiante de Matemáticas Aplicadas, y he encontrado mi camino y voz en la intersección de la biología con las matemáticas.
-Aquí presento algunos proyectos y materiales visuales que he creado a lo largo de la carrera, 
+Soy estudiante de Matemáticas Aplicadas, y he encontrado mi camino y mi voz en la intersección entre la biología y las matemáticas.  
+Aquí presento algunos proyectos y materiales visuales en los que he trabajado a lo largo de la carrera; deseo que los disfruten tanto como yo disfruté aprender a través de ellos.
+
 ## Proyectos destacados
 
 ### 🧫 [Competencia entre bacterias — Proyecto Final](https://github.com/FridaVargas/COMPETENCIA-BACTERIAS-MBA)
