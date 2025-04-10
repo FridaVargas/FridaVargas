@@ -23,7 +23,7 @@ En este espacio comparto algunos de los materiales que he construido: simulacion
 
 ---
 
-### 🏙️ [Simulaciones en NetLogo — Proyecto I](https://github.com/FridaVargas/ProyectoMBA)
+### 🏙️ [Simulaciones en NetLogo — Proyecto I](https://github.com/FridaVargas/proyecto_1/tree/main)
 
 <p align="center">
   <a href="https://github.com/FridaVargas/proyecto_1">
