@@ -14,7 +14,7 @@ En este espacio comparto algunos de los materiales que he construido: simulacion
 
 <p align="center">
   <a href="https://github.com/FridaVargas/COMPETENCIA-BACTERIAS-MBA">
-    <img src="https://github.com/FridaVargas/COMPETENCIA-BACTERIAS-MBA/raw/main/GIFsEscenarios/Escenario2.gif" width="480"/>
+    <img src="https://github.com/FridaVargas/COMPETENCIA-BACTERIAS-MBA/raw/main/GIFsEscenarios/Escenario1.gif" width="480"/>
   </a>
 </p>
 
