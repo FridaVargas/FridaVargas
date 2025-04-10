@@ -38,13 +38,6 @@ Aquí presento algunos proyectos y materiales visuales en los que he trabajado a
 
 ---
 
-## 🎓 Sobre mí
-
-- 🌈 Me gusta aprender con colores.  
-- 🌱 Creo que la ciencia también puede sentirse bonita.  
-- 🧠 Me interesa seguir explorando cómo comunicar lo complejo desde lo sencillo.
-
----
 
 ## 📫 Gracias por pasar
 
