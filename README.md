@@ -1,14 +1,8 @@
-# 🌸 Hola, soy Frida
-
-Soy estudiante de la Facultad de Ciencias de la UNAM. Me apasionan la biología, la simulación de sistemas complejos y la divulgación científica con un toque visual y sensible.
-
-Creo en el poder de los colores, de las reglas simples que generan belleza, y en contar la ciencia de forma clara, humana y bonita.
-
-En este espacio comparto algunos de los materiales que he construido: simulaciones, proyectos finales y materiales visuales que me han acompañado en el camino.
-
+# Hola, soy Frida
 ---
-
-## 🤖 Proyectos destacados
+Soy estudiante de Matemáticas Aplicadas, y he encontrado mi camino y voz en la intersección de la biología con las matemáticas.
+Aquí presento algunos proyectos y materiales visuales que he creado a lo largo de la carrera, 
+## Proyectos destacados
 
 ### 🧫 [Competencia entre bacterias — Proyecto Final](https://github.com/FridaVargas/COMPETENCIA-BACTERIAS-MBA)
 
