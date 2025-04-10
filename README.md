@@ -27,7 +27,7 @@ En este espacio comparto algunos de los materiales que he construido: simulacion
 
 <p align="center">
   <a href="https://github.com/FridaVargas/proyecto_1">
-    <img src="GIFs/SchellingGrupos.gif" width="480"/>
+    <img src="https://github.com/FridaVargas/proyecto_1/blob/d6dcf8351100dd15ee1ff530cbbfb9c5b6e7a348/GIFs/SchellingGrupos.gif" width="480"/>
   </a>
 </p>
 
