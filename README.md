@@ -26,7 +26,7 @@ En este espacio comparto algunos de los materiales que he construido: simulacion
 ### 🏙️ [Simulaciones en NetLogo — Proyecto I](https://github.com/FridaVargas/ProyectoMBA)
 
 <p align="center">
-  <a href="https://github.com/FridaVargas/ProyectoMBA">
+  <a href="https://github.com/FridaVargas/proyecto_1">
     <img src="GIFs/SchellingGrupos.gif" width="480"/>
   </a>
 </p>
