@@ -43,6 +43,8 @@ Aquí presento algunos proyectos y materiales visuales en los que he trabajado a
 
 ### 🖼️ [Galería de materiales visuales](https://github.com/FridaVargas/posters-divulgacion)
 
+![IMG_4122](https://github.com/user-attachments/assets/b4f832bf-0067-43d2-b225-d938a5d65907)
+
 > Pósters y materiales gráficos elaborados para materias como *Ingeniería de Tejidos* y talleres de divulgación científica.  
 > Cada material fue diseñado, ilustrado y redactado desde cero.
 
@@ -52,5 +54,3 @@ Aquí presento algunos proyectos y materiales visuales en los que he trabajado a
 ## 📫 Gracias por pasar
 
 Este perfil sigue creciendo, y cada proyecto es una forma de contar lo que voy descubriendo.  
-
-> *"De la sencillez de una regla, a la belleza de lo emergente."*
