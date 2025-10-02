@@ -49,8 +49,9 @@ Aquí presento algunos proyectos y materiales visuales en los que he trabajado a
 > Cada material fue diseñado, ilustrado y redactado desde cero.
 
 ---
+### 🎓 [Constancias](https://github.com/FridaVargas/Constancias/tree/main)
 
 
-## 📫 Gracias por pasar
+##  Gracias por pasar
 
 Este perfil sigue creciendo, y cada proyecto es una forma de contar lo que voy descubriendo.  
