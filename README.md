@@ -1,6 +1,5 @@
 # Hola, soy Frida
 
-![NetLogo](https://img.shields.io/badge/-NetLogo-9fc5e8?style=flat-square&logo=data:image/svg+xml;base64,PHN2Zy8+&labelColor=4c6e91)
 ![Python](https://img.shields.io/badge/-Python-ffe599?style=flat-square&logo=python&logoColor=3776AB)
 ![CWOA](https://img.shields.io/badge/-Clustering%20con%20WOA-f4cccc?style=flat-square)
 ![Divulgación científica](https://img.shields.io/badge/-Divulgación%20científica-d9ead3?style=flat-square)
@@ -41,13 +40,24 @@ Aquí presento algunos proyectos y materiales visuales en los que he trabajado a
 ![imagen](https://github.com/user-attachments/assets/b3ae5959-8d4b-43b9-9633-6432e342c9fb)
 > Algoritmo de Clustering utilizando el algoritmo de la ballena jorobada para clasificación de datos.
 
+---
+### 🩸 [Clasificación multiclase de células sanguíneas](https://github.com/FridaVargas/Clasificacion-Multiclase-Celulas-Sanguineas)
+
+<img width="969" height="498" alt="imagen" src="https://github.com/user-attachments/assets/83edf15b-5240-404d-9cc9-17af654f6f69" />
+
+En este trabajo se clasificaron de manera automática 10 tipos de células sanguíneas a través de dos enfoques: el primero es convertir las imágenes a datos estructurados, empleando atributos de la matriz LGCM y el segundo una red neuronal convolucional construida desde cero. 
+
+<img width="934" height="406" alt="imagen" src="https://github.com/user-attachments/assets/3dfdf83c-d7a1-4e71-9bdb-e1d903f226d8" />
+
+Se compara el desempeño de ambos enfoques y se discuten posibles líneas de trabajo. 
+
+---
 ### 🖼️ [Galería de materiales visuales](https://github.com/FridaVargas/posters-divulgacion)
 
 ![IMG_4122](https://github.com/user-attachments/assets/b4f832bf-0067-43d2-b225-d938a5d65907)
 
 > Pósters y materiales gráficos elaborados para materias como *Ingeniería de Tejidos* y talleres de divulgación científica.  
 > Cada material fue diseñado, ilustrado y redactado desde cero.
-
 ---
 ### 🎓 [Constancias](https://github.com/FridaVargas/Constancias/tree/main)
 
